@@ -1,7 +1,9 @@
-# E-Commerce Platform using SpringBoot and React-JS
+# E-Commerce Platform using SpringBoot and React-JS.
 
 ## Overview
 This full-stack e-commerce application is designed to showcase a seamless shopping experience powered by Spring Boot REST APIs in the backend, ReactJS on the frontend, and an H2 database for data management. It offers a responsive, user-friendly interface and a robust backend architecture, making it an ideal solution for an efficient online retail operation.
+
+![Landing Page](src/home.png)
 
 ## Key Features
 
@@ -23,6 +25,7 @@ This application follows a well-structured full-stack model, ensuring that the f
 - The **Backend** is built with Spring Boot, creating powerful RESTful APIs that handle all business logic and database operations.
 - The **Frontend** is developed using ReactJS, providing a rich interactive user experience while communicating efficiently with the backend through API calls.
 - **Data Storage** is managed in the H2 database, which supports all CRUD operations performed by the application.
+
 
 ## License
 This project is licensed under the MIT License - see the `LICENSE` file for details.
