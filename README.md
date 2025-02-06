@@ -3,7 +3,7 @@
 ## Overview
 This full-stack e-commerce application is designed to showcase a seamless shopping experience powered by Spring Boot REST APIs in the backend, ReactJS on the frontend, and an H2 database for data management. It offers a responsive, user-friendly interface and a robust backend architecture, making it an ideal solution for an efficient online retail operation.
 
-![Landing Page](src/home.png)
+![Landing Page](/src/home.png)
 
 ## Key Features
 
